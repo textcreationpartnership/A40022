@@ -1,0 +1,311 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The fortune of France from the prophetical predictions of Mr. Truswell, the recorder of Lincoln, and Michael Nostradamus.</title>
+            <author>Truswell, Mr.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40022</idno>
+            <idno type="STC">Wing F1619</idno>
+            <idno type="STC">ESTC R6793</idno>
+            <idno type="EEBO-CITATION">12911758</idno>
+            <idno type="OCLC">ocm 12911758</idno>
+            <idno type="VID">95336</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40022)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95336)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 982:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The fortune of France from the prophetical predictions of Mr. Truswell, the recorder of Lincoln, and Michael Nostradamus.</title>
+                  <author>Truswell, Mr.</author>
+                  <author>Nostradamus, 1503-1566. Prophéties. English. Selections.</author>
+               </titleStmt>
+               <extent>27 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Jonathan Edwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>France --  History --  17th century --  Prophecies.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95336:1" rendition="simple:additions"/>
+            <p>THE FORTUNE OF FRANCE, FROM THE Prophetical PREDICTIONS OF Mr. <hi>Truſwell,</hi> the Recorder of <hi>Lincoln,</hi> AND <hi>Michael Noſtradamus.</hi>
+            </p>
+            <q>
+               <l>In ſe magna ruunt laetis hunc numina rebus,</l>
+               <l>Creſcendi poſuere modum—</l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Jonathan Edwin,</hi> at the Three Roſes in <hi>Ludgate-ſtreet.</hi> 1678.</p>
+            <pb facs="tcp:95336:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:95336:2"/>
+            <head>THE FORTUNE OF <hi>FRANCE,</hi> &amp;c.</head>
+            <p>THAT this preſent Age is an <hi>Age of Wonders,</hi> I think there is no Perſon but will acknowledge, who does but con<g ref="char:EOLhyphen"/>ſider the prodigious <hi>Revolutions</hi> which have happened in the world within the ſpace of ſixty years laſt paſt. Nor ſhall we need to tra<g ref="char:EOLhyphen"/>vel ſo far as <hi>China</hi> or <hi>Indoſtan,</hi> or viſit the Sun<g ref="char:EOLhyphen"/>burnt Regions of <hi>Africa,</hi> to juſtifie the truth of this. <hi>Europe</hi> alone will ſuffice, having been the <hi>Theatre</hi> of ſuch Mutations as are not the leaſt mi<g ref="char:EOLhyphen"/>raculous; and in which, as we have had our ſhare, ſo likewiſe a very near concern. The Great <hi>Guſtavus</hi> of <hi>Sweden</hi> begun the fatal Dance, and <hi>Germany</hi> ſtill wears the marks of thoſe Deſo<g ref="char:EOLhyphen"/>lations which were occaſion'd by his Arms. <hi>Por<g ref="char:EOLhyphen"/>tugal</hi> revolts from <hi>Spain, France</hi> is over-run with Civil Broils, <hi>Great Britain</hi> and <hi>Ireland</hi> are all in flames and confuſion.</p>
+            <p>Scarce had the World begun to breathe the
+<pb n="4" facs="tcp:95336:3"/>
+gentle Air of Peace, when the aſpiring Spirit of <hi>France,</hi> big with the ambitious hopes of Glo<g ref="char:EOLhyphen"/>ry, and puft up with a vain deſire of the <hi>Sole Monarchy</hi> of the <hi>Weſtern World,</hi> raiſes freſh Com<g ref="char:EOLhyphen"/>motions in <hi>Europe,</hi> and has ſet all <hi>Chriſtendom</hi> in flames of War. What have been the Effects of theſe horrible Combuſtions are too well known already, and what will be the Iſſue, although we may from probability make Conjectures, God on<g ref="char:EOLhyphen"/>ly knows.</p>
+            <p>Theſe great Changes and Revolutions which have happened in the Affairs of the World, have always been uſhered in with ſome ſtrange Pre<g ref="char:EOLhyphen"/>ſages and Predictions; it would be tedious to re<g ref="char:EOLhyphen"/>count all the prodigious Comets, Viſions, Appa<g ref="char:EOLhyphen"/>ritions, and Propheſies, which have in all Ages of the World given occaſion of wonder and a<g ref="char:EOLhyphen"/>mazement to the vulgar, but of caution to the wiſe; to whom the conſideration of preſent Cir<g ref="char:EOLhyphen"/>cumſtances compared together, have given great advantage to conjecture of the <hi>Series</hi> of future Events, and to improve thoſe hints both to the publick and their private good. A pregnant in<g ref="char:EOLhyphen"/>ſtance of which we have in <hi>Joan</hi> of <hi>Arc,</hi> to whoſe Propheſies the <hi>French</hi> were obliged both for Direction and Courage to clear themſelves and Country of the <hi>Engliſh.</hi> Nor ought we to doubt, but that theſe Admonitions are the Ef<g ref="char:EOLhyphen"/>fects of Heaven's kindneſs, as well as the He<g ref="char:EOLhyphen"/>ralds of its anger; nor does the Divine Venge<g ref="char:EOLhyphen"/>ance act by ſurpriſal, but always firſt denounces <hi>War</hi> before it begins it; though uſually theſe Por<g ref="char:EOLhyphen"/>tents
+<pb n="5" facs="tcp:95336:3"/>
+and Predictions meet with the ſame treat<g ref="char:EOLhyphen"/>ment from the incredulous World, which <hi>Noah</hi>'s prophetick Sermon of 40 years whilſt he was building the <hi>Ark,</hi> received from the indocile Peo<g ref="char:EOLhyphen"/>ple who inhabited the Earth before the Univerſal Deluge.</p>
+            <p>I know the hazzard of Interpretation, is apt to render a curioſity of this nature, culpable to ſome, ridiculous to others, and many times to thoſe who are moſt nearly concerned in the danger; <hi>Caeſar</hi> could laugh at the Predictions concerning the Fatal <hi>Ides,</hi> and the Dream of his Lady, but it proved a <hi>Riſus Sardonius,</hi> which ended in Death. Did I propoſe any thing with a pretence of <hi>Inſpi<g ref="char:EOLhyphen"/>ration,</hi> or the confidence of un-erring Infallibility, I ſhould deſerve the cenſure of the <hi>wiſe,</hi> and which is far more inſupportable, the deriſion of the <hi>fooliſh;</hi> but what I offer is only as a private and probable conjecture, and I leave it to every mans liberty to judge even of that liberty I have taken, and to the Event to juſtifie or confute my Opi<g ref="char:EOLhyphen"/>nion.</p>
+            <p>I will not pretend a familiarity with the Stars, though I do not deſpiſe their Influences; nor will I undertake to explain the Myſtical <hi>Characters</hi> of the Eaſt; nor to tell you exactly which way any of the late <hi>Comets</hi> directly pointed; nor to un<g ref="char:EOLhyphen"/>riddle all the dark Nonſence of <hi>Noſtradamus;</hi> but ſomething ſure there is in all theſe things. And although I believe there is ſome Wheat in all that heap of Chaff, yet I queſtion whether or no my Judgment be ſtrong enough to winnow it, and
+<pb n="6" facs="tcp:95336:4"/>
+ſeparate one from the other. That which I here offer to the view of the Curious and Inquiſitive, is a very ancient <hi>Propheſie,</hi> though not much re<g ref="char:EOLhyphen"/>garded: But who was the certain <hi>Author,</hi> I am no more able to aſſure them, than what will be the certain Event. However, let this ſuffice, that 'tis ſaid to have been found in the Ruines of a Religious Houſe at or near <hi>Lincoln,</hi> and given to Mr. <hi>Truſwel</hi> the <hi>Recorder</hi> of that City, from whom it now borrows the Name, and goes under the Title of <hi>Mr. Truſwel's Prophecy the Recorder of Lincoln.</hi> It was writ in an obſcure and bar<g ref="char:EOLhyphen"/>barous <hi>Latin,</hi> which does in ſome meaſure ſhew the Antiquity of it, and that it was penn'd in thoſe <hi>Ages,</hi> when Learning was at ſo low an <hi>Ebb,</hi> that the <hi>high Water-Mark</hi> of it, did not run a<g ref="char:EOLhyphen"/>bove a ſort of <hi>Gothiſh Latin;</hi> all beyond which was the <hi>Hercules Pillars</hi> as they thought, with the <hi>Ne plus ultra</hi> inſcribed upon them, of <hi>Graecum eſt non poteſt legi.</hi>
+            </p>
+            <q>
+               <p>
+                  <label>The PROPHECY.</label> Lilium manebit in meliori parte, &amp; movebitur contra ſemen Leonis. Et ſtabit ex una parte inter ſpinas Regni ſui, cujus Regnum eſt in Terra Lunae, per totum Orbem timendum. Et veniet Filius ho<g ref="char:EOLhyphen"/>minis ferens feras in brachiis, cum multitudine Populi, tranſibit multas aquas, &amp; veniet in terram Leonis, auxilium querens a Beſtiis terrae ſuae. Veniet Aquila ex Oriente, aliis expanſis radiis filii Hominis. Et hoc anno Castra ſuper Thameſin peribunt, &amp;
+<pb n="7" facs="tcp:95336:4"/>
+magnus erit timor in toto Orbe, &amp; in quadam parte Terra. Magnd Praelia erunt inter multos Reges. &amp; in illo die erit <hi>Pugna Cruenta</hi> in qua <hi>Lilium</hi> per<g ref="char:EOLhyphen"/>det coronam ſuam, de qua coronabitur filius homi<g ref="char:EOLhyphen"/>nis. Et quarto anno multa erunt pro fide certamina; caput mundi erit ad Terram. Filius hominis &amp; Aquila elevabuntur: &amp; tunc erit Pax in Terris Univerſalis. Et accipiet filius hominis mirabile ſignum. Et erit magna frugum abundantiae. ibit in Terram Crucis.</p>
+               <p>
+                  <label>In ENGLISH.</label> The <hi>Lilly</hi> ſhall remain upon the better part, and he ſhall be moved againſt the Seed of the Lyon. And <hi>he</hi> ſhall ſtand on one part amongſt the <hi>Thorns</hi> of his <hi>Kingdom,</hi> whoſe Kingdom is the <hi>Land of the Moon,</hi> which is to he dreaded throughout the World. And there ſhall come <hi>the Son of Man,</hi> bearing the <hi>Wild-beaſts in his Arms,</hi> with a mul<g ref="char:EOLhyphen"/>titude of People. He ſhall paſs many <hi>Waters,</hi> and ſhall come to the Land of the <hi>Lyon,</hi> looking for help from the Beaſts of his own <hi>Country.</hi> Then ſhall there come an <hi>Eagle</hi> out of the Eaſt, and his Wings ſpread with the Beams of the <hi>Son of Man.</hi> And in that Year ſhall be deſtroyed <hi>Caſtles</hi> upon the <hi>Thames,</hi> and there ſhall be great fear over all the World, and in a part of the Land. There ſhall be great <hi>Battles</hi> among many Kings. In that <hi>Day</hi> ſhall be the <hi>Bloody Field,</hi> in which the <hi>Lilly</hi> ſhall loſe his <hi>Crown,</hi> wherewith the <hi>Son of Man</hi> ſhall be crowned<hi>:</hi> and in the fourth year many
+<pb n="8" facs="tcp:95336:5"/>
+                  <hi>Battles</hi> ſhall be for the <hi>Faith.</hi> The <hi>Head</hi> of the World ſhall be brought to the Earth. And the <hi>Son of Man</hi> with the <hi>Eagle</hi> ſhall be exalted. And there ſhall be Univerſal Peace over all the World. And the <hi>Son of Man</hi> ſhall receive a wonderful Sign. And there ſhall be great plenty of all Fruits of the Earth. And he ſhall go into the land of the Croſs.</p>
+            </q>
+            <p>I do not find that this Propheſie hath been taken notice of, except by an inconſiderable and little regarded perſon, <hi>Ariſe Evans</hi> in a Book entituled, <hi>A Voice from Heaven,</hi> printed <hi>Anno</hi> 1652. and though he did ſtrangely foretell many things, and particularly was always poſitive about his <hi>Ma<g ref="char:EOLhyphen"/>jeſties</hi> happy <hi>Reſtauration,</hi> and with him of the <hi>Church of England,</hi> then trampled under foot by the prevailing <hi>Sects</hi> and <hi>Factions;</hi> yet mention<g ref="char:EOLhyphen"/>ing this <hi>Propheſie,</hi> he has both given ſo falſe a Tran<g ref="char:EOLhyphen"/>ſlation, and an Interpretation no leſs impertinent than ridiculous in ſome things, making the <hi>Lilly</hi> to be Mr. <hi>Lily</hi> the <hi>Aſtrologer,</hi> and ſome ſuch things as look like the effects of a weak or ſhattered Brain. Nor do I remember any Conjuncture of Affairs which have been in <hi>Europe,</hi> to which this <hi>Predicti<g ref="char:EOLhyphen"/>on</hi> could poſſibly be applicable except the preſent, to which it ſeems plainly and perſpicuouſly to di<g ref="char:EOLhyphen"/>rect, and to threaten <hi>France</hi> with an inevitable fall from that Glory and Proſperity which now ſhe does ſeem to enjoy.</p>
+            <p>According to the manner of all <hi>Propheſies,</hi> and
+<pb n="9" facs="tcp:95336:5"/>
+even this as well as the reſt is wrapt up in a my<g ref="char:EOLhyphen"/>ſterious confuſion, which leaves us no more to work upon, than matter of Connexion and Conjecture: But however according to the judgment of perſons much converſant in Wri<g ref="char:EOLhyphen"/>tings of this nature, there ſeems to be an a<g ref="char:EOLhyphen"/>greement in <hi>Opinion,</hi> that by the <hi>Son of Man who carries the wild Beaſts in his Arms,</hi> is intended the King and Kingdom of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> which is ſo diſtinguiſhing a difference, as no other <hi>Prince</hi> beſides him can pretend to the Deſcription. And poſſibly he calls him, the <hi>Son of Man,</hi> with a regard to his <hi>Exile,</hi> alluding to that place in Scripture, <hi>That the Foxes have holes, and the Birds of the Air have Neſts, but the Son of Man hath not where to hide his head.</hi> He ha<g ref="char:EOLhyphen"/>ving had in that extremity of his <hi>Fortune</hi> no place of ſecurity or retreat, capable to ſhelter him from the malice of his implacable Enemies, whilſt he was hunted by them from one Kingdom to a<g ref="char:EOLhyphen"/>nother, his Reception being made a ſufficient ground of War, as his Baniſhment was always an Article of Peace. And he ſeems farther to explain this, when he tells us, <hi>He ſhall paſs many Waters.</hi> Which is both literally and prophetically true, for his preſent <hi>Majeſty</hi> was forced for his ſecurity to paſs and re-paſs the <hi>Seas.</hi> But in the Figurative ſenſe, by <hi>Waters</hi> is always in the prophetical dia<g ref="char:EOLhyphen"/>lect underſtood Afflictions, Inſtability of Fortune, Dangers and Hazards from the People. Now all the world is witneſs, that even from his In<g ref="char:EOLhyphen"/>fancy his Majeſty of <hi>Great Britain</hi> ſailed through
+<pb n="10" facs="tcp:95336:6"/>
+a moſt tempeſtuous <hi>Ocean</hi> of <hi>Adverſe Fortune.</hi>
+            </p>
+            <p>
+               <hi>And he ſhall come to the Land of the Lyon.]</hi> By the <hi>Lyon</hi> is here meant the <hi>Leo Belgicus,</hi> the <hi>Bel<g ref="char:EOLhyphen"/>gick Lyon,</hi> as the <hi>United Provinces</hi> and <hi>Spaniſh Netherlands,</hi> from the figure of the Country as it lies in the <hi>Maps,</hi> and from their ancient <hi>Enſigns</hi> are called, and by that Name commonly known; from both which Countries his Majeſty expected Protection and Aſſiſtance, and did in ſome mea<g ref="char:EOLhyphen"/>ſure receive it: <hi>[looking for help from the Beaſts of his own Country,]</hi> that is expecting Aſſiſtances from the <hi>Scottiſh Nation;</hi> to ſome of which the Name he gives them did but too well agree, with that part of them who endeavoured to make a prey of him, as before they had done of his <hi>Royal Father.</hi> This he further explains in the fore<g ref="char:EOLhyphen"/>going words, telling us <hi>[and he ſhall come with a multitude of People,]</hi> which ſhews his <hi>Reſtaura<g ref="char:EOLhyphen"/>tion,</hi> and that he ſhould <hi>come,</hi> that is, to be re<g ref="char:EOLhyphen"/>ceived with the univerſal deſire and conſent of his People into his <hi>Kingdom [which Kingdom is the Land of the Moon]</hi> either becauſe it is ſur<g ref="char:EOLhyphen"/>rounded with the water of the <hi>Ocean,</hi> over whoſe fluxes and re-fluxes the <hi>Moon</hi> has ſuch abſolute Soveraignty and Dominion; or to ſignifie the great Changes and Alterations, the ebbing and flowing of the Tydes of <hi>Faction</hi> and <hi>Rebellion</hi> which ſhould be in that <hi>Kingdom,</hi> and eſpecially in <hi>Eccleſiaſtical</hi> Affairs, of which the <hi>Moon</hi> is e<g ref="char:EOLhyphen"/>ven in <hi>Holy Propheſies</hi> not an unuſual Significatrix; the Church being often figured by the <hi>Moon,</hi> as ſhining by a borrowed light <hi>(Luna quaſi luce lu<g ref="char:EOLhyphen"/>cens</hi>
+               <pb n="11" facs="tcp:95336:6"/>
+               <hi>aliena)</hi> and being frequently under great Changes and Alterations, and never more bright and conſpicuous, than in the darkeſt nights of <hi>Perſecutions. [Which Kingdom,</hi> of the Moon, <hi>is to be dreaded throughout the World,]</hi> he does not ſay <hi>England,</hi> which here he calls the <hi>Land of the Moon,</hi> ſhall have dominion over all the Earth, an <hi>Iſland</hi> being altogether incapable of ſuch a de<g ref="char:EOLhyphen"/>ſign or Dominion, but <hi>it ſhall be dreaded,</hi> which may well be underſtood to be meant in regard of the great <hi>Maritime Power,</hi> and <hi>Naval Exploits</hi> of the <hi>Engliſh,</hi> which has already made their name terribly known to all the world; and which is to be hoped ſuch care will be taken to increaſe and incourage that Power, as well as to abate that of our Rivals and Enemies, as in future Ages ſhall render <hi>England</hi> not only conſiderable, but formi<g ref="char:EOLhyphen"/>dable to all the Earth; ſo as to be able, if not to give Laws, yet to hold the <hi>Great Ballance,</hi> ſo as to make <hi>England</hi> terrible to her Enemies; who ſhall therefore dread their great <hi>Naval Power,</hi> in regard of their Ability thereby to make ſudden Invaſions and Diſcents into the <hi>Maritime</hi> Coun<g ref="char:EOLhyphen"/>tries of their Enemies, and to ſtop their Trade and Commerce abroad.</p>
+            <p>Thus far the Propheſie appears plain and eaſie, Events having in a great meaſure given us a clear Interpretation of it. Now Affairs thus ſtanding, the <hi>Son of Man who bears the Wild-beaſts in his Arms, whoſe Kingdom is the Land of the Moon, which is to be dreaded throughout the World, being come through many Waters with a multitude of Peo<g ref="char:EOLhyphen"/>ple,</hi>
+               <pb n="12" facs="tcp:95336:7"/>
+he comes to diſcourſe of the <hi>Lilly.</hi> By the <hi>Lilly</hi> they interpret <hi>France,</hi> whoſe Enſigns are the <hi>Lillies,</hi> as they themſelves diſcourſe it by their <hi>Salique Law,</hi> when they tell us the <hi>Lillies ſpin not,</hi> excluding thereby the <hi>Diſtaff</hi> from all hopes of enjoying the <hi>Scepter:</hi> Rather to deſtroy the pretenſions of the <hi>Engliſh,</hi> than that they are a<g ref="char:EOLhyphen"/>ble to ſhew any ſuch original and <hi>fundamental Law of their Crown. [The Lilly</hi> (ſaith he) <hi>ſhall re<g ref="char:EOLhyphen"/>main in the better part]</hi> that is, <hi>France</hi> ſhall be in great Peace, Glory, Plenty and Proſperity; which has been exactly verified ever ſince the concluſion of their laſt Domeſtick Wars, by the Policy of that great Miniſter of <hi>State, Cardinal Mazarin,</hi> during the minority of the preſent King of <hi>France, Lewis</hi> the Fourteenth; ever ſince which time <hi>France</hi> has enjoyed a conſtant current of Greatneſs and uninterrupted Proſperity: which as it has infinitely augmented their Trade, Navi<g ref="char:EOLhyphen"/>gation, People, and the Treaſure of the Prince, into the Sea of whoſe Coffers all the ſeveral Streams of Money in <hi>France</hi> do finally diſcharge themſelves; ſo it has elevated their minds to high <hi>Attempts;</hi> Pride being the uſual Com<g ref="char:EOLhyphen"/>panion of Proſperity, and a vaſt Treaſure the greateſt ſpur to the thoughts of Ambitious Princes. The <hi>Lilly</hi> ſtanding in theſe terms, <hi>[ſhall be moved againſt the Seed of the Lyon]</hi> that is, as before we took notice, againſt the <hi>United Provin<g ref="char:EOLhyphen"/>ces</hi> and <hi>Spaniſh Netherlands,</hi> who are altogether called the <hi>Leo Belgious,</hi> and give the <hi>Lyon</hi> for their <hi>Enſigns.</hi> This likewiſe needs no great matter
+<pb n="13" facs="tcp:95336:7"/>
+of explaining, it being ſo viſible and freſh in re<g ref="char:EOLhyphen"/>membrance, how the <hi>French</hi> began to quarrel with the <hi>Dutch:</hi> Though upon what real or ſolid grounds, ſince they never yet told the world, we are left to the liberty of our Conjectures; and may therefore judge it was the Child of their Pride and Ambition, Riches and Proſperity, with which unbounded deſire of Greatneſs and Sove<g ref="char:EOLhyphen"/>raignty ſome of their late Miniſters have travel<g ref="char:EOLhyphen"/>led long, and had they not ſtrangely miſcarried, 'tis more than probable they would have brought that <hi>Embrio</hi> of ſlavery which they had conceived in their brains, to a perfect birth.</p>
+            <p>
+               <hi>[And he ſhall ſtand on one ſide amongſt the Thorns of his Kingdom, whoſe Kingdom is the Land of the Moon]</hi> that is, at the beginning of this War be<g ref="char:EOLhyphen"/>twixt <hi>Lilly</hi> and the <hi>Lyon, England</hi> ſhall ſtand up<g ref="char:EOLhyphen"/>on the part of the <hi>Lilly</hi> againſt the <hi>Lion,</hi> though not without Difficulties, by reaſon of the <hi>Thorns</hi> of his Kingdom, by which <hi>Thorns</hi> they underſtand the uneaſineſs of his People, occaſioned by this con<g ref="char:EOLhyphen"/>federation with <hi>France,</hi> by reaſon of their Appre<g ref="char:EOLhyphen"/>henſions of whoſe growing Greatneſs and Power both at Sea and Land, and his dangerous Vicinity they are ſaid to <hi>ſtand upon Thorns,</hi> according to our Engliſh <hi>Proverb</hi> of expreſſing any thing which gives us a trouble, or which we cannot long en<g ref="char:EOLhyphen"/>dure<hi>:</hi> And by his adding <hi>[the Kingdom of the Moon]</hi> may further be meant, that this Confe<g ref="char:EOLhyphen"/>deration ſhall not be laſting, but ſhall change, as it has done, from <hi>Friendſhip,</hi> to a cold <hi>Neutrality,</hi> from Neutrality, to open and violent, becauſe ne<g ref="char:EOLhyphen"/>ceſſary,
+<pb n="14" facs="tcp:95336:8"/>
+               <hi>Hoſtility [Then ſhall come the Eagle out of the Eaſt, with his wings ſpread with the Beams of the Son of Man.]</hi> Here is plainly decipher'd his <hi>Im<g ref="char:EOLhyphen"/>perial Majeſty</hi> of <hi>Germany,</hi> whoſe Enſign is the <hi>Eagle diſplaid,</hi> and <hi>his wings being ſpread with the Beams of the Son of Man,</hi> denotes the Confedera<g ref="char:EOLhyphen"/>tion between <hi>England</hi> and the <hi>Empire;</hi> which Confederation ſhall influence, warm, and revive the drooping Spirits of the <hi>Imperial Party,</hi> adding new life to their endeavours, and freſh vigour to their enterpriſes, as the kind Beams of the Sun impregnates the Plants and Herbs, with a new Life and Growth. <hi>[There ſhall be deſtrdyed Caſtles upon the Thames.]</hi> Whether this may not have reference to the action of <hi>Chattam,</hi> or to the con<g ref="char:EOLhyphen"/>flagration of <hi>London,</hi> or to ſome other great Sea action, in which the <hi>Engliſh</hi> may loſe ſome Ships (which he calls <hi>Caſtles upon the Thames)</hi> and which may probably happen if there be Naval Engagements with the <hi>French,</hi> I will not under<g ref="char:EOLhyphen"/>take to determine, but as before was obſerved, there is no method or exact order obſerved in theſe <hi>Prophetick</hi> Diſcourſes, and I am rather inclinable to believe it does relate to the Affair of <hi>Chattam,</hi> in which the <hi>Engliſh</hi> Ships were deſtroyed, with the great pleaſure, if not by the Inſtigation of <hi>France.</hi>
+            </p>
+            <p>
+               <hi>[There ſhall be great Battles among many Kings.]</hi> This is not only already verified no ſo many Com<g ref="char:EOLhyphen"/>bats, as during this War have happened between the <hi>Emperor,</hi> the Crowns of <hi>France, Spain, Eng<g ref="char:EOLhyphen"/>land, Sweeden</hi> and <hi>Denmark,</hi> but in great pro<g ref="char:EOLhyphen"/>bability
+<pb n="15" facs="tcp:95336:8"/>
+that ſtill there will be more and greater: for the Power of <hi>France</hi> is too great, to be the <hi>Trophie</hi> of one <hi>Day,</hi> and there appears no ſafety to any Neighbouring Crowns, but by abating the Luxury of the <hi>Lillies.</hi>
+            </p>
+            <p>
+               <hi>[In that Day ſhall be the Bloody Field,]</hi> This is ſpoken exegetically, as if one particular remark<g ref="char:EOLhyphen"/>able and <hi>Deciſſive Day,</hi> wherein ſhall be a moſt <hi>Bloody Battle,</hi> the end of which ſhall terminate in a moſt notable <hi>Victory,</hi> in which the <hi>Lilly,</hi> that is <hi>France,</hi> ſhall be ſubdued, wherewith the <hi>Son of Man</hi> ſhall be <hi>crowned. [In the fourth year many Battles ſhall be for the Faith.]</hi> This ſeems to inti<g ref="char:EOLhyphen"/>mate, as if during this <hi>War,</hi> and before the final concluſion of it, by the great <hi>Battle</hi> which he calls the <hi>Bloody Day, France</hi> finding her ſelf ſtraitned ſhould excite the <hi>Grand Signior,</hi> the Capital Enemy of the <hi>Chriſtian Faith,</hi> to enter into the Chriſtian Territories, according to the Example of <hi>Francis</hi> the firſt of <hi>France;</hi> and the preſent Commotions in <hi>Hungary,</hi> ſupported in a probability both by the <hi>French</hi> and <hi>Ottomans</hi> underhand, render the conjecture not much void of the Mark. This War between the <hi>Chriſtians</hi> and <hi>Turks</hi> ſhall conti<g ref="char:EOLhyphen"/>nue ſome time after the Power of <hi>France</hi> is hum<g ref="char:EOLhyphen"/>bled; and ſhall occaſion many <hi>Battles for the Faith,</hi> that is againſt the <hi>Mahometans;</hi> but at laſt Victo<g ref="char:EOLhyphen"/>ry ſhall declare her ſelf for the <hi>Chriſtians. [Caput mundierit ad terram.]</hi> I can eaſily make of this better ſenſe than <hi>Latin: The head of the World ſhall be brought to the Ground,]</hi> which may be meant either of the <hi>Pope</hi> or <hi>Turk,</hi> who both pre<g ref="char:EOLhyphen"/>tend
+<pb n="16" facs="tcp:95336:9"/>
+to that Title of <hi>
+                  <g ref="char:V">Ʋ</g>niverſal Head;</hi> the one as <hi>Temporal</hi> and the other as <hi>Spiritual Monarch</hi> of the World; and I leave it to the Opinion of the Reader, and to Time the ſureſt Interpreter of Pre<g ref="char:EOLhyphen"/>dictions, to declare upon which of theſe <hi>Heads,</hi> this Vengeance ſhall fall ſo heavy, as to lay them in the Duſt.</p>
+            <p>After this, <hi>The Son of Man and the Eagle,</hi> that is the King of <hi>England</hi> and the <hi>Emperor, ſhall be exalted;</hi> that is, they ſhall be in great Honour, Dignity and Power; upon which there ſhall ſuc<g ref="char:EOLhyphen"/>ceed <hi>Univerſal Peace,</hi> and as the Natural Effect of it all manner of Plenty.</p>
+            <p>As for the laſt Clauſe where 'tis ſaid, <hi>[The Son of Man ſhall receive a marvellous Sign, and ſhall go to the Land of the Croſs.]</hi> I confeſs I want an <hi>Oe<g ref="char:EOLhyphen"/>dipus</hi> to furniſh me with a Conjecture, and will not therefore undertake it; in regard that Voyage has been out of faſhion with all Princes, ſince they underſtood that it was an <hi>Intrigue</hi> of Ambitious <hi>Popes</hi> to ſend Princes to the <hi>Holy War,</hi> whilſt they in the mean time made a Prey of their Pre<g ref="char:EOLhyphen"/>rogatives and Subjects at home.</p>
+            <p>Thus far Mr. <hi>Truſwel</hi>'s <hi>Propheſie,</hi> which be<g ref="char:EOLhyphen"/>cauſe it may be thought the work of an <hi>Engliſh-man,</hi> and may therefore be ſuppoſed in favour of the <hi>Nation;</hi> let us hear a <hi>Prophet</hi> of their own, <hi>Noſtradamus,</hi> the great Favourite of three Kings, <hi>Henry</hi> the 2. <hi>Francis</hi> the 2. and <hi>Charles</hi> the 9. and if he be a Prophet, he will it may be confirm the Truth of the former Predictions, applying his rugged Verſes to the preſent Circumſtances of the time.</p>
+            <pb n="17" facs="tcp:95336:9"/>
+            <q>
+               <lg>
+                  <l>Naples, Palerme, Sicile, Syracuſe,</l>
+                  <l>Noveaux Tyrants, fulgures ſeu Caleſtes</l>
+                  <l>Force de Londres, Gand, Bruxels, &amp; Suſe</l>
+                  <l>Grand Hecatombe, Triomphe, fair Feſtes.</l>
+               </lg>
+               <p>
+                  <label>In ENGLISH.</label> 
+                  <hi>Naples, Palermo, Sicily and Siracuſe, new Ty<g ref="char:EOLhyphen"/>rants, like Heavenly Lightning. The Arms of London, Ghent, Bruxels, and Suſe, a great Heca<g ref="char:EOLhyphen"/>tomb, Triumph, and making of Feaſts.</hi>
+               </p>
+            </q>
+            <p>Here are <hi>Naples, Palermo, Sicily</hi> and <hi>Siracuſe,</hi> by name, threatned with new Tyrants, who ſhould feiſe upon them like Lightning; which I think was moſt truly acted by the <hi>French,</hi> who did un<g ref="char:EOLhyphen"/>expectedly ſurpriſe <hi>Meſſina,</hi> and a great part of <hi>Sicily:</hi> And the famous Sea-Action of the <hi>French</hi> at <hi>Palermo,</hi> does even literally expound the Ver<g ref="char:EOLhyphen"/>ſes, nothing being ſo like the heavenly Light<g ref="char:EOLhyphen"/>ning as the thundring Cannon, which never be<g ref="char:EOLhyphen"/>fore did ſo terribly enlighten the <hi>Trinacrian</hi> ſhore. And let the <hi>Sicilians</hi> ſpeak, whether the <hi>French</hi> have not been great as well as new Tyrants; ſince that place which was wont to be the <hi>Horreum Ro<g ref="char:EOLhyphen"/>mani Imperii,</hi> the Granary of the <hi>Roman Empire,</hi> is now obliged to beg ſupplies from the reſt of the world. But then follows <hi>[The Arms or Power of London, Ghent, Bruxels and Suſe]</hi> by <hi>Suſe</hi> he muſt mean the <hi>Empire, Suſa</hi> being the Capital City of the <hi>Perſian</hi> and <hi>Aſſyrian</hi> Monarchies, and
+<pb n="18" facs="tcp:95336:10"/>
+it being a common blind with <hi>Noſtradame,</hi> to put old Names to new things. Thoſe Powers of <hi>England, Germany,</hi> and the <hi>Netherlands</hi> being confederated together, ſhall occaſion a great <hi>He<g ref="char:EOLhyphen"/>catomb,</hi> that is a great ſlaughter, a <hi>Hecatomb</hi> be<g ref="char:EOLhyphen"/>ing a Sacrifice of an hundred Oxen; this ſlaugh<g ref="char:EOLhyphen"/>ter ſhall to the Victors glory produce a great Tri<g ref="char:EOLhyphen"/>umph and much Feaſting. But you will ſay here is the Devil of <hi>Delphos,</hi>
+            </p>
+            <q>
+               <p>Aio te Aeacida Romanos vincere poſſe.</p>
+               <p>I ſay the Son of the <hi>Aeacides</hi> the <hi>Romans</hi> may overcome.</p>
+            </q>
+            <p>Who ſhall be theſe triumphant <hi>Conquerors?</hi> I anſwer, that the <hi>Victory</hi> ſhall not fall to the <hi>French,</hi> of which the Prophets ſilence is a con<g ref="char:EOLhyphen"/>vincing Argument; for he would certainly have given ſome intimation of it, and whoever reads his Writings, where any ſenſe can be made out, ſhall find, that he is not ſparing to proclaim any good <hi>Fortune</hi> to his <hi>Nation,</hi> and it may be ſome things in his Book, and ſome Diſcourſes with ſome of the <hi>French</hi> Kings, have not given them a little encouragement in their great Underta<g ref="char:EOLhyphen"/>kings. But let him explain himſelf.</p>
+            <q>
+               <lg>
+                  <l>Burdeaux, Rouan &amp; la Rochelle joints,</l>
+                  <l>Tiendra autour la Grand Mer Oceane,</l>
+                  <l>Anglois Bretons, &amp; les Flamans conjoints,</l>
+                  <l>Les chaſſeront juſque aupres de Rouane.</l>
+               </lg>
+               <pb n="19" facs="tcp:95336:10"/>
+               <p>
+                  <label>In ENGLISH.</label> Burdeaux, Rouan, <hi>and</hi> Rochelle <hi>being joined to<g ref="char:EOLhyphen"/>gether, ſhall rove abroad upon the great Ocean Sea, the</hi> Engliſh Britons, <hi>and</hi> Hollanders <hi>united, ſhall chaſe them as far as</hi> Rouan.</p>
+            </q>
+            <p>I would gladly be ſatisfied, in what Kings Reign of <hi>France</hi> till now, they were in a capacity to range the Ocean, or to oblige the <hi>Dutch</hi> and <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> to join for their common ſafety againſt them? And if the man be a Prophet, here is like to be ſome work at <hi>Sea,</hi> as well as <hi>Land;</hi> but it is to be hoped the <hi>French</hi> will pay the Charges of the War: And if the <hi>Dutch</hi> and <hi>Engliſh</hi> chaſe them as far as <hi>Roan,</hi> they muſt chaſe them off the <hi>Seas;</hi> and I cannot imagine when ſuch a purſuit ſhall be, that the Armies of <hi>France</hi> ſhall be in a good poſture in <hi>Flanders:</hi> So that <hi>one wedge muſt drive out another,</hi> and this later <hi>Propheſie</hi> applyed to the Circumſtances of time and the Confederations now on foot, ſeem to explain the <hi>Riddle</hi> of the former.</p>
+            <p>In another place he tells us</p>
+            <q>
+               <lg>
+                  <l> Par la Guyenne infinite D'Anglois</l>
+                  <l>Occuperront par nom D'Angle Aquitaine.</l>
+               </lg>
+               <pb n="20" facs="tcp:95336:11"/>
+               <p>
+                  <label>In ENGLISH.</label> 
+                  <hi>An Infinite Number of Engliſh ſhall poſſeſs Guyenne, by the name of Engliſh Aquitaine.</hi>
+               </p>
+            </q>
+            <p>And this I am ſure there was yet never any at<g ref="char:EOLhyphen"/>tempt to do, ſince the time that <hi>Noſtradamus</hi> lived, nor any conſiderable War betwixt the two <hi>Nati<g ref="char:EOLhyphen"/>ons,</hi> till this preſent; in which, if the <hi>Engliſh</hi> ſhould land, poſſibly the <hi>French</hi> might receive them as their welcome deliverers from ſlavery, rather than as inſulting <hi>Conquerors.</hi> But that which has often ſurpriſed me with the moſt plea<g ref="char:EOLhyphen"/>ſant Imaginations in the World, as the moſt ridi<g ref="char:EOLhyphen"/>culous of all thoſe <hi>Propheſies,</hi> is that which now is as much the occaſion of my wonder.</p>
+            <q>
+               <lg>
+                  <l>Celuy qut la Principaute</l>
+                  <l>Tiendra par grade cruauté</l>
+                  <l>Ala fin, verra grand Phalange</l>
+                  <l>Par Coup de feu tres dangereux,</l>
+                  <l>Par accord pourroit fair mieux,</l>
+                  <l>Autrement boira ſuc D'Orenge.</l>
+               </lg>
+               <p>
+                  <label>In ENGLISH.</label> 
+                  <hi>He who ſhall with great Cruelty hold the Princi<g ref="char:EOLhyphen"/>pality, in the Concluſion ſhall ſee a great Army ruin'd by a moſt dangerous Fire-blow, he might do better to make an Accord, otherways he ſhall drink the juice of Orange.</hi>
+               </p>
+            </q>
+            <pb n="21" facs="tcp:95336:11"/>
+            <p>Here is firſt a plain deſcription of the <hi>French</hi> Dominion, which is certainly carried on with the greateſt <hi>Cruelty,</hi> and managed with the moſt horrible <hi>Oppreſſion,</hi> where ever their Arms have made a <hi>Conqueſt;</hi> and for their own <hi>People,</hi> they are moſt abſolute <hi>Slaves.</hi> One may ſay of <hi>France</hi> as of the <hi>Grand Signior,</hi> where-ever his Horſe ſets his Foot, the Graſs will not grow again in ſeven Years. So great are the Deſolations of <hi>Germany;</hi> eſpecially <hi>Alſace,</hi> and all that plea<g ref="char:EOLhyphen"/>ſant, populous, and fertile Country along the <hi>Rhine,</hi> that there is ſcarce an Inhabitant, or a Village left for many Leagues together, to make complaint of the barbarous inhumanity of the <hi>French</hi> Armies, who have left behind them un<g ref="char:EOLhyphen"/>exampled Inſtances of their <hi>Cruelty,</hi> in ſuch ſpoils and ravage, as makes the Country look like the Fields of <hi>Sodom,</hi> when firſt covered with the Aſhes of thoſe flaming Cities. Such Cruel<g ref="char:EOLhyphen"/>ties of War as exceed all the moſt ſalvage pro<g ref="char:EOLhyphen"/>ceedings of the <hi>Ottoman</hi> Family, and the moſt barbarous Conquerours amongſt the <hi>Heathens.</hi>
+            </p>
+            <p>
+               <hi>[But he ſhall ſee his great Army ruin'd by the moſt dangerous blow of Fire.]</hi> Not improbable, Heaven often meaſures by the <hi>Lex Talionis; Fire ſhall deſtroy thoſe who have deſtroyed ſo ma<g ref="char:EOLhyphen"/>ny innocent millions by fire.</hi> But by this Fire he ſeems to intimate the force of Powder, the now common and terrible Fewel of the horrid Engines of War.</p>
+            <pb n="22" facs="tcp:95336:12"/>
+            <p>
+               <hi>[He might do better to make an accord.]</hi> Cer<g ref="char:EOLhyphen"/>tainly this would have been wholſom counſel for <hi>France,</hi> who doubtleſs might have had ho<g ref="char:EOLhyphen"/>nourable terms of <hi>Peace,</hi> had they proſecuted it in good earneſt, and not rather as a <hi>Blind</hi> to lull ſome of her Neighbours aſleep, whilſt ſhe might more eaſily cut the Throats of others: though how ſafe ſuch a Peace, as muſt have left <hi>France</hi> in the Poſſeſſion of ſo great Conqueſts, or any part of them, muſt have been to the reſt of the <hi>European Princes</hi> and <hi>States,</hi> I leave it to the De<g ref="char:EOLhyphen"/>termination of <hi>Polititians.</hi> But ſince <hi>France</hi> hath refuſed thoſe Propoſals, it follows, <hi>[That he muſt drink the juice of Orange.]</hi> This is what I have often laught at, but now it ſeems to carry in it not only a very ſerious but ſignificant mean<g ref="char:EOLhyphen"/>ing. For by the <hi>Orange</hi> muſt of neceſſity be meant the moſt illuſtrious <hi>William of Naſſau</hi> Prince of <hi>Orange,</hi> that great though young <hi>Ge<g ref="char:EOLhyphen"/>neral;</hi> and by the juice of <hi>Orange</hi> muſt be meant the force, power, and vertue of that Princes Va<g ref="char:EOLhyphen"/>lour, Courage, and Conduct, which ſpeak him an old Souldier though a young Man: And by <hi>France drinking the juice of Orange, if an Ac<g ref="char:EOLhyphen"/>cord be not made,</hi> cannot be meant any other thing, but that to her diſadvantage, ſhe ſhall feel the Force and Power of that young <hi>Hero</hi> de<g ref="char:EOLhyphen"/>ſign'd for Greatneſs and Wonders.</p>
+            <p>And to animate that Illuſtrious Prince, I will ſubjoyn but one more of the <hi>Prophecies</hi> of <hi>Noſtra<g ref="char:EOLhyphen"/>damus,</hi>
+               <pb n="23" facs="tcp:95336:12"/>
+which ſhews that he ſhall have good Aſſi<g ref="char:EOLhyphen"/>ſtance.</p>
+            <q>
+               <lg>
+                  <l>Le grand D'Hongrie ira dans la Nacelle</l>
+                  <l>Le Noveau ne feraguerre novelle,</l>
+                  <l>A ſon voiſin qu'il tiendra aſſiegé,</l>
+                  <l>Et le Noireau avec ſon Alteſſe,</l>
+                  <l>Ne ſouffrira que par trop on le preſſe</l>
+                  <l>Durant Trois ans ſes Gens tiendra rangé.</l>
+               </lg>
+               <p>
+                  <label>In ENGLISH.</label> 
+                  <hi>The great one of</hi> Hungarie <hi>ſhall go to the Boat, the new one ſhall not make a new War againſt his Neighbour, whom he ſhall beſiege on every ſide. And the black one with his Highneſs, ſhall not ſuffer him to be over-preſſed. During three Years he ſhall keep his People in order.</hi>
+               </p>
+            </q>
+            <p>By the <hi>great one of Hungarie</hi> is meant the <hi>Em<g ref="char:EOLhyphen"/>peror;</hi> by his <hi>going into the Boat,</hi> is meant his imbarquing in the Confederation. By the <hi>new one</hi> is meant, a new King of <hi>France;</hi> that is, ſuch a one as <hi>France</hi> never had before<hi>: He ſhall not make a new War with his Neighbour;</hi> that is, it ſhall not be a new War, but the old claim to <hi>Elaunders</hi> revived. His <hi>Neighbour</hi> is the <hi>Spani<g ref="char:EOLhyphen"/>ard,</hi>
+               <pb n="24" facs="tcp:95336:13"/>
+               <hi>whom he ſhall beſiege on every ſide, viz.</hi> in the <hi>Netherlands, Catalonia Meſſina, &amp;c.</hi> But the <hi>Black one,</hi> that is the King of <hi>England,</hi> accord<g ref="char:EOLhyphen"/>ing to the old <hi>Propheſie, Rex ater in albo,</hi> with his <hi>Highneſs,</hi> that is his <hi>Highneſs</hi> the Prince of <hi>Orange,</hi> being confederated together by the alliance of a happy match, <hi>ſhall not ſuffer him</hi> (that is the <hi>Spa<g ref="char:EOLhyphen"/>niard)</hi> to be over-preſſed, <hi>During three Years he ſhall keep his People in order;</hi> but after that let <hi>France</hi> look for nothing but Domeſtick Inſurrections and Rebellions, from a People overladen with the in<g ref="char:EOLhyphen"/>tollerable burden of a War, which might have been happily ended long before, if the obſtinacy and ill <hi>Genius</hi> of ſome great men, driven head<g ref="char:EOLhyphen"/>long by their <hi>Deſtiny,</hi> had not prevented it.</p>
+            <p>I might add, to render theſe Conjectures more probable, many other Rational Arguments, as that old and ſo often verified <hi>Propheſie</hi> of the Poet,</p>
+            <q>
+               <lg>
+                  <l>Adgenerum Cereris, ſine caede &amp; ſanguine pauci</l>
+                  <l>Deſcendunt Reges, nec ſicca morte Tyranni.</l>
+                  <l>Ambitious Princes rarely go</l>
+                  <l>
+                     <g ref="char:V">Ʋ</g>nbloody to the Shades below.</l>
+               </lg>
+            </q>
+            <p>And the dreadful Inſtances of <hi>Philip</hi> of <hi>Spain,</hi> and the three <hi>Henrys,</hi> Second, Third, and Fourth of <hi>France,</hi> who all aimed at the Monarchy of the Weſt, are fatal Examples of the Tragical End
+<pb n="25" facs="tcp:95336:13"/>
+of vain Ambition after unlawful Soveraignty and Empire. And certainly they who will ſacrifice the Blood and Treaſure of ſo many Innocents, and the Intereſts of all other <hi>Princes</hi> and <hi>States</hi> to their own inordinate deſires of Ruling, can<g ref="char:EOLhyphen"/>not in common Reaſon believe, but that they have almoſt as many Enemies as there are men in the World; and cannot expect a mild or gentle <hi>Deſtiny.</hi> For there is in all Mankind, <hi>Princes</hi> and <hi>People,</hi> a natural love for their <hi>Liberty, Life, Pro<g ref="char:EOLhyphen"/>perty,</hi> and <hi>Religion;</hi> and when they apprehend that all theſe are in danger of being invaded, and raviſht from them, by the force of Arms, they will not only combine <hi>pro Aris &amp; focis,</hi> and re<g ref="char:EOLhyphen"/>ſolutely diſpute the Quarrel, with their Lives and Fortunes. And they live in a perpetual fear of a <hi>Scaevola</hi> or a <hi>Ravaillac,</hi> to endeavour by a ſudden blow, to free the World as well as themſelves from the danger of <hi>Slavery;</hi> and to revenge thoſe Murders, Rapines, Miſeries, and Deſola<g ref="char:EOLhyphen"/>tions, which have been the Reſults of ſuch Am<g ref="char:EOLhyphen"/>bitious Attempts, which brings into my mind another of the <hi>Propheſies</hi> of <hi>Noſtradamus.</hi>
+            </p>
+            <q>
+               <lg>
+                  <l>Tard. arrive l'Execution fait</l>
+                  <l>Le vent contrare; lettres au chemin princes</l>
+                  <l>Les Conjurez quatorze d'une ſecte</l>
+                  <l>Parle Rouſſeau ſeront les Entreprinſes.</l>
+               </lg>
+               <pb n="26" facs="tcp:95336:14"/>
+               <p>
+                  <label>In ENGLISH.</label> 
+                  <hi>Arriving late the Execution done, by rea<g ref="char:EOLhyphen"/>ſon of the contrary Winds, Letters taken by the way. The Conſpirators fourteen of a Sect, by the Red-haird Man this Enterpriſe ſhall be undertaken.</hi>
+               </p>
+            </q>
+            <p>I will leave this to the probability of what may be, according to what has been.</p>
+            <p>To conclude, I wiſh all proſperity to the Arms of the preſent Confederation, and that by their Union amongſt themſelves they may diſappoint the Deſigns of their Enemies; and that they would lay aſide their Private Animoſities, Heats, and Quarrels; which, who-ever in ſuch a Con<g ref="char:EOLhyphen"/>juncture ſhall refuſe to do, cannot be the Friends of their Countries Intereſt, Liberty, or Glory; but will lye under the vehement ſuſpicion of being corrupted and dazled with the Luſtre of Gold, to ſide with the <hi>Common Enemy,</hi> and betray their <hi>Country;</hi> nor will their Clamours againſt the <hi>French</hi> be able to protect them from ſo juſt a ſu<g ref="char:EOLhyphen"/>ſpicion, but rather increaſe the jealouſie; no<g ref="char:EOLhyphen"/>thing being a more common <hi>Blind,</hi> than to look one way whilſt men <hi>Row</hi> another; ſince it is moſt certain that no perſons can oblige an Ene<g ref="char:EOLhyphen"/>my, though with their perſonal aſſiſtance, to
+<pb n="27" facs="tcp:95336:14"/>
+that degree, as they may by ſowing <hi>Jealouſies</hi> in a Confederation, and by croſſing the Deſigns that may be formed for the Common Security; which is in ſhort to unbind the Faggot, that it may more quickly be burnt. Let the Malice of theſe Predictions be to the Enemies of Peace, and to the Authors of this miſerable War.</p>
+            <epigraph>
+               <q>Pax queritur Bello.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
